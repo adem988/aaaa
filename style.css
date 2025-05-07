@@ -1,0 +1,47 @@
+.hq {
+box-shadow: 5px 5px 4px rgb(255, 204, 0),15px 15px 4px yellow;
+text-align: center;
+background-image: linear-gradient( rgb(255, 191, 0),rgba(176, 70, 62, 0.818));
+color:  rgb(255, 218, 190)
+}
+body {
+background-color: rgb(208, 200, 140);
+}
+.he {
+color: rgb(124, 84, 84);
+
+font-size: 20px;
+
+}
+.ez {
+ font-size: 30px ; 
+ color: blueviolet;  
+}
+.hl {
+ font-size: 23px;   
+}
+.do {
+  background-image: linear-gradient(rgb(101, 63, 13),rgb(255, 173, 73)) ; 
+   
+}
+.de {
+
+}
+.ml {
+  background-image: linear-gradient(rgb(255, 157, 0),rgb(255, 77, 0)) ;
+  background-clip:text ;
+  -webkit-text-stroke: 6px transparent;
+  }
+  .f {
+background-image: linear-gradient(red,rgb(255, 153, 0),rgb(1, 255, 1),rgb(0, 72, 255),blueviolet) ;
+  background-clip:text ;
+  -webkit-text-stroke: 6px transparent;
+  font-size: 50px;
+  }
+  .gg {
+     background-image: linear-gradient(rgb(109, 109, 109),rgb(199, 199, 199)) ;
+  background-clip:text ;
+  -webkit-text-stroke: 6px transparent;
+  font-size: Neuropol Medium;
+
+  }
